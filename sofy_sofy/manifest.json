@@ -6,6 +6,7 @@
   "tile": {
     "overview": "README.md#Overview",
     "configuration": "README.md#Setup",
+    "uninstallation": "README.md#Uninstallation",
     "support": "README.md#Support",
     "changelog": "CHANGELOG.md",
     "description": "Monitors device metrics during automated test case runs",
@@ -40,6 +41,16 @@
       "Category::Mobile",
       "Offering::Integration",
       "Submitted Data Type::Metrics"
+    ],
+    "resources": [
+      {
+        "resource_type": "blog",
+        "url": "https://www.datadoghq.com/blog/sofy-mobile-tests/"
+      },
+      {
+        "resource_type": "documentation",
+        "url": "https://docs.sofy.ai"
+      }
     ]
   },
   "assets": {
@@ -58,7 +69,8 @@
       },
       "source_type_id": 10353,
       "auto_install": true
-    }
+    },
+    "oauth": "assets/oauth_clients.json"
   },
   "pricing": [],
   "author": {

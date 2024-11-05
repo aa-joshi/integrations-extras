@@ -29,10 +29,13 @@
       "Supported OS::Windows",
       "Offering::Integration",
       "Category::Cost Management",
-      "Category::Cloud"
+      "Category::Cloud",
+      "Queried Data Type::Metrics"
     ]
   },
-  "assets": {},
+  "assets": {
+    "oauth": "assets/oauth_clients.json"
+  },
   "author": {
     "support_email": "support@cloudzero.com",
     "name": "CloudZero",

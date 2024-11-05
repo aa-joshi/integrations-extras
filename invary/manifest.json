@@ -23,7 +23,8 @@
       "Category::OS & System",
       "Category::Security",
       "Submitted Data Type::Logs",
-      "Supported OS::Linux"
+      "Supported OS::Linux",
+      "Offering::Integration"
     ]
   },
   "assets": {
@@ -41,7 +42,8 @@
       },
       "source_type_id": 10409,
       "auto_install": true
-    }
+    },
+    "oauth": "assets/oauth_clients.json"
   },
   "author": {
     "support_email": "support@invary.com",
